@@ -1,0 +1,1 @@
+echo "End of filament detected"

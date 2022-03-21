@@ -1,0 +1,23 @@
+; config-override.g file generated in response to M500 at 2022-03-16 11:55
+; This is a system-generated file - do not edit
+; Heater model parameters
+M307 H1 R0.302 K0.122:0.000 D3.84 E1.00 S1.00 B0
+M307 H2 R0.511 K0.550:0.000 D6.18 E1.00 S1.00 B0 V23.8
+M307 H4 R2.131 K0.445:0.000 D4.61 E1.00 S1.00 B0 V23.6
+M307 H5 R2.131 K0.445:0.000 D4.61 E1.00 S1.00 B0 V23.6
+; Probed axis limits
+M208 S0 Z73.69
+; Probed tool offsets
+G10 P0 Z12.33
+G10 P1 Z8.40
+G10 P2 Z12.00
+; Workplace coordinates
+G10 L2 P1 X0.00 Y0.00 Z0.00
+G10 L2 P2 X0.00 Y0.00 Z5.34
+G10 L2 P3 X0.00 Y0.00 Z5.34
+G10 L2 P4 X0.00 Y0.00 Z5.34
+G10 L2 P5 X0.00 Y0.00 Z0.00
+G10 L2 P6 X0.00 Y0.00 Z0.00
+G10 L2 P7 X0.00 Y0.00 Z0.00
+G10 L2 P8 X0.00 Y0.00 Z0.00
+G10 L2 P9 X0.00 Y0.00 Z0.00
